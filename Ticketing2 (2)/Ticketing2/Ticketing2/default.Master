@@ -1,0 +1,364 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="default.master.cs" Inherits="Ticketing2._default" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <title>Ticketing Bros</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/330633ffe0.js" crossorigin="anonymous"></script>
+    <link href="mastercsfile.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        /* Ensure the footer stays at the bottom */
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        #form1 {
+            flex: 1;
+        }
+
+        footer {
+            margin-top: auto;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server" id="form1">
+        <!-- Top Section -->
+        <div class="navi border-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 centerOnMobile">
+                        <select class="me-3 border-0 bg-light">
+                            <option value="en-us">EN-US</option>
+                        </select>
+                        <span class="d-none d-lg-inline-block d-md-inline-block d-sm-inline-block d-xs-none me-3"><strong>TicketingBros@gmail.com</strong></span>
+                        <span class="me-3"><i class="fa-solid fa-phone me-1 text-warning"></i> <strong>63-932-555-6789</strong></span>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 d-none d-lg-block d-md-block-d-sm-block d-xs-none text-end">
+                        <span class="me-3"><i class="fa-solid fa-file text-muted me-2"></i><a class="text-muted" href="#">Policy</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light p-3 shadow-sm">
+            <div class="container">
+                <a class="navbar-brand" href="#"><i class="fa-solid fa-shop me-2 fw-bold"></i>TICKETING BROS</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link mx-2 text-uppercase active" aria-current="page" href="/default.aspx">Home</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <button type="button" class="btn btn-light text-uppercase dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                Cinema
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item text-uppercase" href="/now_showing.aspx">Now Showing</a></li>
+                                <li><a class="dropdown-item text-uppercase" href="/upcoming.aspx">Upcoming Movies</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <button type="button" class="btn btn-light text-uppercase dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                Ticketing
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item text-uppercase" href="/ticketing.aspx">Book A Ticket</a></li>
+                                <li><a class="dropdown-item text-uppercase" href="/cancel_reservation.aspx">Cancel Reservation</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <button type="button" class="btn btn-light text-uppercase dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                About
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item text-uppercase" href="/about.aspx">About Us</a></li>
+                                <li><a class="dropdown-item text-uppercase" href="/contact.aspx">Contact Us</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <button type="button" id="loginmodalbutt" class="btn" data-bs-toggle="modal" data-bs-target="#userlogin">
+                                <i class="fa-solid fa-circle-user me-1"></i> <span id="accname"> Account</span>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Login Modal -->
+<div class="modal fade" id="userlogin" tabindex="-1" aria-labelledby="modal-title" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title fw-bold text-center text-uppercase">
+                    Login to Ticketing Bros
+                </div>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="container mx-auto mb-3">
+                    <label for="username" class="form-label">Username</label>
+                    <input type="text" id="username" class="form-control border-0 border-bottom" placeholder="&#xf007; Username" style="font-family: Arial, FontAwesome">
+                </div>
+                <div class="container mx-auto mb-3">
+                    <label for="usepass" class="form-label">Password</label>
+                    <input type="password" id="usepass" class="form-control border-0 border-bottom" placeholder="&#xf023; Password" style="font-family: Arial, FontAwesome">
+                </div>
+                <div class="d-flex justify-content-end mb-3">
+                    <p>Forgot Password?</p>
+                </div>
+                <div class="container mb-3">
+                    <button class="btn btn-primary w-100">Login</button>
+                </div>
+                <div class="container mb-5">
+                    <h6 class="text-center">Or login using:</h6>
+                    <div class="d-flex justify-content-center">
+                        <span class="fa-stack fa-lg">
+                          <i class="fa fa-circle fa-stack-2x" style="color:blue"></i>
+                          <i class="fa fa-facebook fa-stack-1x fa-inverse" style="color:white"></i>
+                        </span>
+                        <span class="fa-stack fa-lg">
+                          <i class="fa fa-circle fa-stack-2x" style="color:red"></i>
+                          <i class="fa fa-google fa-stack-1x fa-inverse" style="color:white"></i>
+                        </span>
+                    </div>
+                </div>
+                <div class="container">
+                    <h6 class="text-center">New User? <a class="link-dark" href="sign_up.aspx">Click here to sign up!</a></h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <!-- Account Modal -->
+        <div class="modal fade" id="accountmodal" tabindex="-1" aria-labelledby="modal-title" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div class="modal-title fw-bold text-center text-uppercase">
+                            Account
+                        </div>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container mt-3 ms-auto me-auto">
+                            <div class="container mb-3 border-0 border-bottom">
+                                <div class="row">
+                                    <div class="col-md-3 mt-2 d-flex justify-content-start border-0 border-bottom">
+                                        <i class="fa fa-user me-3" aria-hidden="true"></i>
+                                        <p class="fw-bold">Username</p>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <input type="text" readonly class="form-control border-0 border-none">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container mb-3 border-0 border-bottom">
+                                <div class="row">
+                                    <div class="col-md-3 mt-2 d-flex justify-content-start border-0 border-bottom">
+                                        <i class="fa fa-lock me-3" aria-hidden="true"></i>
+                                        <p class="fw-bold">Password</p>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="password" readonly class="form-control border-0 border-none">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container mb-3 border-0 border-bottom">
+                                <div class="row">
+                                    <div class="col-md-3 mt-2 d-flex justify-content-start border-0 border-bottom">
+                                        <i class="fa fa-id-card-o me-3" aria-hidden="true"></i>
+                                        <p class="fw-bold">Account Type</p>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <input type="text" readonly class="form-control border-0 border-none">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="container d-flex my-auto justify-content-center mt-3">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <button type="button" class="btn bg-primary text-white me-3 w-100" data-bs-target="#forgetpassmodal" data-bs-toggle="modal">Reset Password</button>
+                                </div>
+                                <div class="col-md-6 mt-2">
+                                    <button type="button" class="btn bg-primary text-white me-3 w-100" data-bs-target="#signoutmodal" data-bs-toggle="modal">Sign Out</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Reset Password Modal -->
+        <div class="modal fade" data-bs-backdrop="static" data-bs-keyboard="false" id="forgetpassmodal" tabindex="-1" aria-labelledby="modal-title" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div class="modal-title fw-bold text-center text-uppercase">
+                            Forget Password
+                        </div>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container mt-3">
+                            <div class="mb-3">
+                                <label for="oldpass" class="form-label fw-bold">Old Password</label>
+                                <input type="password" id="oldpass" class="form-control border border-primary" maxlength="50" placeholder="Input old password">
+                            </div>
+                            <div class="mb-3">
+                                <label for="newpass1" class="form-label fw-bold">New Password</label>
+                                <input type="password" id="newpass1" class="form-control border border-primary" maxlength="50" placeholder="Input new password">
+                            </div>
+                            <div class="mb-3">
+                                <label for="newpass2" class="form-label fw-bold">Re-Enter New Password</label>
+                                <input type="password" id="newpass2" class="form-control border border-primary" maxlength="50" placeholder="Re-enter new password">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="container mt-3">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <button class="btn border bg-primary text-white w-100">Reset Password</button>
+                                </div>
+                                <div class="col-md-6">
+                                    <button type="button" data-bs-dismiss="modal" class="btn bg-primary text-white w-100">Cancel</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Signout Modal -->
+        <div class="modal fade" id="signoutmodal" tabindex="-1" aria-labelledby="modal-title" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div class="modal-title fw-bold text-center text-uppercase">
+                            Sign Out
+                        </div>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container mt-2">
+                            <img src="../Images/Background_Images/signout.png" />
+                            <div class="row mt-3">
+                                <div class="col-md-6">
+                                    <button class="btn bg-warning w-100">Yes</button>
+                                </div>
+                                <div class="col-md-6">
+                                    <button type="button" data-bs-dismiss="modal" class="btn bg-warning w-100">No</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <footer class="text-center text-lg-start text-white" style="background-color: #79642C">
+            <div class="container p-4 pb-0">
+                <section class="">
+                    <div class="row">
+                        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 fw-bold">Ticketing Bros</h6>
+                        </div>
+                        <hr class="w-100 clearfix d-md-none" />
+                        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+                            <h6 class="mb-4 fw-bold text-uppercase">Cinema</h6>
+                            <ul class="navbar-nav mx-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link fw-bold" href="now_showing.aspx">Now Showing</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link fw-bold" href="upcoming.aspx">Upcoming Movies</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link fw-bold" href="ticketing.aspx">Book A Ticket</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link fw-bold" href="cancel_reservation.aspx">Cancel Reservation</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <hr class="w-100 clearfix d-md-none" />
+                        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 fw-bold">Useful Links</h6>
+                            <ul class="navbar-nav mx-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link fw-bold" href="default.aspx">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link fw-bold" href="about.aspx">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link fw-bold" href="contact.aspx">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <hr class="w-100 clearfix d-md-none" />
+                        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
+                            <p><i class="fas fa-home mr-3"></i> Address: 789 Quezon Avenue, Quezon City, Metro Manila, Philippines, 1100</p>
+                            <p><i class="fas fa-envelope mr-3"></i> TicketingBros@gmail.com</p>
+                            <p><i class="fas fa-phone mr-3"></i> +63 932 555 6789</p>
+                        </div>
+                    </div>
+                </section>
+                <hr class="my-3">
+                <section class="p-3 pt-0">
+                    <div class="row d-flex align-items-center">
+                        <div class="col-md-7 col-lg-8 text-center text-md-start">
+                            <div class="p-3">
+                                © 2025 Copyright:
+                                <a class="text-white" href="#">TicketingBros.com</a>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-lg-4 ml-lg-0 text-center text-md-end">
+                            <a class="btn btn-outline-light btn-floating m-1 text-white" role="button">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a class="btn btn-outline-light btn-floating m-1 text-white" role="button">
+                                <i class="fab fa-x"></i>
+                            </a>
+                            <a class="btn btn-outline-light btn-floating m-1 text-white" role="button">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </footer>
+    </form>
+</body>
+</html>

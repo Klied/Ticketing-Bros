@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|c:\\users\\user\\onedrive - malayan colleges laguna\\desktop\\ticketing2\\ticketing2\\default.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\default.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\sign_up.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\sign_up.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\sign_up.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\sign_up.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\moviedisplay.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\moviedisplay.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\ticketing2\\cancel_reservation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28CC6E35-C569-4074-974A-4A192D1CAED0}|Ticketing2\\Ticketing2.csproj|solutionrelative:ticketing2\\cancel_reservation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sign_up.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\sign_up.aspx.cs",
+              "RelativeDocumentMoniker": "Ticketing2\\sign_up.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\sign_up.aspx.cs",
+              "RelativeToolTip": "Ticketing2\\sign_up.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:52:07.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sign_up.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\sign_up.aspx",
+              "RelativeDocumentMoniker": "Ticketing2\\sign_up.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\sign_up.aspx",
+              "RelativeToolTip": "Ticketing2\\sign_up.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T15:39:42.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "moviedisplay.Master",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\moviedisplay.Master",
+              "RelativeDocumentMoniker": "Ticketing2\\moviedisplay.Master",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\moviedisplay.Master",
+              "RelativeToolTip": "Ticketing2\\moviedisplay.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T14:41:00.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\packages.config",
+              "RelativeDocumentMoniker": "Ticketing2\\packages.config",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\packages.config",
+              "RelativeToolTip": "Ticketing2\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-18T14:40:04.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\default.aspx.cs",
+              "RelativeDocumentMoniker": "Ticketing2\\default.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\default.aspx.cs",
+              "RelativeToolTip": "Ticketing2\\default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:40:06.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\default.aspx",
+              "RelativeDocumentMoniker": "Ticketing2\\default.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\default.aspx",
+              "RelativeToolTip": "Ticketing2\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T13:35:15.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.Master",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\default.Master",
+              "RelativeDocumentMoniker": "Ticketing2\\default.Master",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\default.Master",
+              "RelativeToolTip": "Ticketing2\\default.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T13:23:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "contact.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\contact.aspx",
+              "RelativeDocumentMoniker": "Ticketing2\\contact.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\contact.aspx",
+              "RelativeToolTip": "Ticketing2\\contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T14:12:15.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "about.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\about.aspx",
+              "RelativeDocumentMoniker": "Ticketing2\\about.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\about.aspx",
+              "RelativeToolTip": "Ticketing2\\about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T14:10:55.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cancel_reservation.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\cancel_reservation.aspx",
+              "RelativeDocumentMoniker": "Ticketing2\\cancel_reservation.aspx",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Malayan Colleges Laguna\\Desktop\\Ticketing2\\Ticketing2\\cancel_reservation.aspx",
+              "RelativeToolTip": "Ticketing2\\cancel_reservation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T14:08:17.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
