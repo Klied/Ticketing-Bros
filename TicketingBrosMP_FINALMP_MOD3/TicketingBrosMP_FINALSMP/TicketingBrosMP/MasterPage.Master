@@ -1,0 +1,517 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="TicketingBrosMP.MasterPage" %>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Movie Ticket Booking - Book your favorite movie tickets online with ease.">
+    <title>Ticketing Bros</title>
+
+   
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <style>
+        :root {
+            --primary-color: #79642C;
+            --primary-hover: #6a5424;
+            --text-light: #ffffff;
+            --text-dark: #333333;
+            --bg-light: #f8f9fa;
+            --accent-color: #f8b400;
+        }
+
+        
+        html, body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        
+        .navbar {
+            background-color: var(--primary-color) !important;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 0.8rem 1rem;
+        }
+
+        .navbar-brand {
+            color: var(--text-light) !important;
+            font-weight: 700;
+            font-size: 1.5rem;
+            letter-spacing: 0.5px;
+        }
+
+        .nav-link {
+            color: var(--text-light) !important;
+            font-weight: 600;
+            transition: color 0.3s ease;
+            padding: 0.5rem 1rem;
+            margin: 0 0.2rem;
+        }
+
+        .nav-link:hover {
+            color: var(--accent-color) !important;
+        }
+
+        .dropdown-menu {
+            border: none;
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+            border-radius: 0.5rem;
+        }
+
+        .dropdown-item {
+            padding: 0.5rem 1.5rem;
+            font-weight: 500;
+            transition: background-color 0.2s ease;
+        }
+
+        .dropdown-item:hover {
+            background-color: rgba(121, 100, 44, 0.1);
+        }
+
+        
+        .content-container {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 20px;
+            min-height: 60vh;
+        }
+
+        
+        footer {
+            background-color: var(--primary-color) !important;
+            color: var(--text-light);
+            font-weight: 500;
+        }
+
+        footer h6 {
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            margin-bottom: 1.2rem;
+        }
+
+        footer .nav-link {
+            padding: 0.3rem 0;
+            opacity: 0.9;
+        }
+
+        footer .nav-link:hover {
+            opacity: 1;
+        }
+
+        footer p {
+            margin-bottom: 0.7rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        footer .btn-outline-light {
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        footer .btn-outline-light:hover {
+            background-color: var(--text-light);
+            color: var(--primary-color) !important;
+        }
+
+        
+        .modal-content {
+            border-radius: 1rem;
+            box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.15);
+            border: none;
+            overflow: hidden;
+        }
+
+        .modal-header {
+            background-color: var(--primary-color);
+            color: var(--text-light);
+            border-bottom: none;
+            padding: 1.5rem;
+        }
+
+        .modal-title {
+            font-weight: 700;
+            letter-spacing: 0.5px;
+        }
+
+        .modal-body {
+            padding: 2rem;
+        }
+
+        .modal-footer {
+            border-top: none;
+            padding: 1.5rem 2rem;
+            background-color: rgba(0, 0, 0, 0.02);
+        }
+
+        .input-group-text {
+            background-color: #f5f5f5;
+            border: 1px solid #e0e0e0;
+            border-right: none;
+            border-radius: 0.5rem 0 0 0.5rem;
+            padding: 0.75rem;
+        }
+
+        .form-control {
+            border: 1px solid #e0e0e0;
+            border-left: none;
+            border-radius: 0 0.5rem 0.5rem 0;
+            padding: 0.75rem;
+            font-size: 0.95rem;
+        }
+
+        .form-control:focus {
+            box-shadow: 0 0 0 0.25rem rgba(121, 100, 44, 0.25);
+            border-color: #e0e0e0;
+        }
+
+        .btn-primary {
+            background-color: var(--primary-color);
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: var(--primary-hover);
+        }
+
+        .btn-secondary {
+            background-color: #6c757d;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+
+        .modal-body a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .modal-body a:hover {
+            color: var(--primary-hover);
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <!-- Navigation Bar -->
+        <nav class="navbar navbar-expand-lg">
+            <div class="container">
+                <a class="navbar-brand" href="Home.aspx">
+                    <i class="fas fa-ticket-alt me-2"></i>TicketingBros
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <asp:HyperLink ID="hlHome" runat="server" NavigateUrl="~/Home.aspx" CssClass="nav-link">
+                                <i class="fas fa-home me-1"></i>Home
+                            </asp:HyperLink>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMovies" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="fas fa-film me-1"></i>Movies
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMovies">
+                                <li>
+                                    <asp:HyperLink ID="hlNowShowing" runat="server" NavigateUrl="~/NowShowing.aspx"
+                                        CssClass="dropdown-item">
+                                        <i class="fas fa-play-circle me-2"></i>Now Showing
+                                    </asp:HyperLink>
+                                </li>
+                                <li>
+                                    <asp:HyperLink ID="hlUpcoming" runat="server" NavigateUrl="~/Upcoming.aspx"
+                                        CssClass="dropdown-item">
+                                        <i class="fas fa-calendar-alt me-2"></i>Upcoming Movies
+                                    </asp:HyperLink>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBooking" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="fas fa-ticket-alt me-1"></i>Buy Tickets
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownBooking">
+                                <li>
+                                    <asp:HyperLink ID="hlBuyTickets" runat="server" NavigateUrl="~/BuyTickets2.aspx"
+                                        CssClass="dropdown-item">
+                                        <i class="fas fa-shopping-cart me-2"></i>Buy Tickets
+                                    </asp:HyperLink>
+                                </li>
+                                <li>
+                                    <asp:HyperLink ID="hlMyBookings" runat="server" NavigateUrl="~/MyBookings.aspx"
+                                        CssClass="dropdown-item">
+                                        <i class="fas fa-list-alt me-2"></i>My Purchases
+                                    </asp:HyperLink>
+                                </li>
+                                <li>
+                                    <asp:HyperLink ID="hlCancelReservation" runat="server"
+                                        NavigateUrl="~/CancelReservation.aspx" CssClass="dropdown-item">
+                                        <i class="fas fa-ban me-2"></i>Cancel Purchases
+                                    </asp:HyperLink>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink ID="hlContact" runat="server" NavigateUrl="~/contact us.aspx"
+                                CssClass="nav-link">
+                                <i class="fas fa-envelope me-1"></i>Contact Us
+                            </asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink ID="hlAbout" runat="server" NavigateUrl="~/about us.aspx"
+                                CssClass="nav-link">
+                                <i class="fas fa-info-circle me-1"></i>About Us
+                            </asp:HyperLink>
+                        </li>
+                        <!-- Display Username First -->
+                        <li class="nav-item">
+                            <asp:Label ID="lblUsername" runat="server" CssClass="nav-link text-light"></asp:Label>
+                        </li>
+                        <!-- Logout elements -->
+                        <li class="nav-item" runat="server" Visible="false" ID="liLogout">
+                            <asp:Label ID="Label1" runat="server" CssClass="nav-link text-light"></asp:Label>
+                        </li>
+                        <li class="nav-item" runat="server" Visible="false" ID="liLogoutBtn">
+                            <asp:LinkButton ID="btnLogout" runat="server" CssClass="nav-link"
+                                OnClick="btnLogout_Click"
+                                OnClientClick="return confirm('Are you sure you want to logout?');">
+                                <i class="fas fa-sign-out-alt"></i> Logout
+                            </asp:LinkButton>
+                        </li>
+                        
+                        <li class="nav-item" id="liLogin" runat="server">
+                            <button type="button" class="btn btn-outline-light nav-link" data-bs-toggle="modal"
+                                data-bs-target="#loginModal" title="Login">
+                                <i class="fas fa-user-circle"></i>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Login Modal -->
+        <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="loginModalLabel">
+                            <i class="fas fa-sign-in-alt me-2"></i>Login
+                        </h5>
+                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="input-group mb-3">
+                            <span class="input-group-text">
+                                <i class="fas fa-user"></i>
+                            </span>
+                            <asp:TextBox ID="txtUsername" runat="server" CssClass="form-control"
+                                Placeholder="Username"></asp:TextBox>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text">
+                                <i class="fas fa-lock"></i>
+                            </span>
+                            <asp:TextBox ID="txtPassword" runat="server" CssClass="form-control" TextMode="Password"
+                                Placeholder="Password"></asp:TextBox>
+                        </div>
+                        <asp:Label ID="lblLoginMessage" runat="server" ForeColor="Red"></asp:Label>
+                        <div class="mt-3 d-flex justify-content-between">
+                            <a href="#" data-bs-toggle="modal" data-bs-target="#resetPasswordModal"
+                                data-bs-dismiss="modal">
+                                <i class="fas fa-key me-1"></i>Forgot Password?
+                            </a>
+                            <a href="Signup.aspx">
+                                <i class="fas fa-user-plus me-1"></i>Sign Up
+                            </a>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <asp:Button ID="btnLogin" runat="server" CssClass="btn btn-primary" Text="Login"
+                            OnClick="btnLogin_Click" />
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Reset Password Modal -->
+        <div class="modal fade" id="resetPasswordModal" tabindex="-1" aria-labelledby="resetPasswordModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="resetPasswordModalLabel">
+                            <i class="fas fa-unlock-alt me-2"></i>Reset Password
+                        </h5>
+                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="input-group mb-3">
+                            <span class="input-group-text">
+                                <i class="fas fa-envelope"></i>
+                            </span>
+                            <asp:TextBox ID="txtResetEmail" runat="server" CssClass="form-control" Placeholder="Email"></asp:TextBox>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text">
+                                <i class="fas fa-key"></i>
+                            </span>
+                            <asp:TextBox ID="txtNewPasswordReset" runat="server" CssClass="form-control" TextMode="Password" Placeholder="New Password"></asp:TextBox>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text">
+                                <i class="fas fa-check-double"></i>
+                            </span>
+                            <asp:TextBox ID="txtConfirmNewPassword" runat="server" CssClass="form-control" TextMode="Password" Placeholder="Confirm New Password"></asp:TextBox>
+                        </div>
+                        <asp:Label ID="lblResetMessage" runat="server" ForeColor="Red"></asp:Label>
+                    </div>
+                    <div class="modal-footer">
+                        <asp:Button ID="btnResetPassword" runat="server" CssClass="btn btn-primary" Text="Reset Password" OnClick="btnResetPassword_Click" />
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content Area -->
+        <div class="container content-container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </div>
+
+        <!-- Footer -->
+        <footer class="text-center text-lg-start text-white">
+            <div class="container p-4 pb-0">
+                <section>
+                    <div class="row">
+                        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 fw-bold">
+                                <i class="fas fa-ticket-alt me-2"></i>Ticketing Bros
+                            </h6>
+                            <ul class="navbar-nav mx-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="home.aspx">
+                                        <i class="fas fa-home me-2"></i>Home
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="contact us.aspx">
+                                        <i class="fas fa-envelope me-2"></i>Contact Us
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="about us.aspx">
+                                        <i class="fas fa-info-circle me-2"></i>About Us
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <hr class="w-100 clearfix d-md-none" />
+                        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 fw-bold">
+                                <i class="fas fa-link me-2"></i>Useful Links
+                            </h6>
+                            <ul class="navbar-nav mx-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="nowshowing.aspx">
+                                        <i class="fas fa-play-circle me-2"></i>Now Showing
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="upcoming.aspx">
+                                        <i class="fas fa-calendar-alt me-2"></i>Upcoming Movies
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="BuyTickets2.aspx">
+                                        <i class="fas fa-shopping-cart me-2"></i>Book A Ticket
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="CancelReservation.aspx">
+                                        <i class="fas fa-ban me-2"></i>Cancel Reservation
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <hr class="w-100 clearfix d-md-none" />
+                        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 fw-bold">
+                                <i class="fas fa-address-card me-2"></i>Contact
+                            </h6>
+                            <p>
+                                <i class="fas fa-home me-2"></i>Mapua Malayan Colleges Laguna
+                            </p>
+                            <p>
+                                <i class="fas fa-envelope me-2"></i>TicketingBros@gmail.com
+                            </p>
+                            <p>
+                                <i class="fas fa-phone me-2"></i>+63 932 555 6789
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <hr class="my-3">
+                <section class="p-3 pt-0">
+                    <div class="row d-flex align-items-center">
+                        <div class="col-md-7 col-lg-8 text-center text-md-start">
+                            <div class="p-3">
+                                © 2025 Copyright:
+                                <a class="text-white" href="#">TicketingBros.com</a>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-lg-4 ml-lg-0 text-center text-md-end">
+                            <a href="https://www.facebook.com" class="btn btn-outline-light btn-floating m-1 text-white" role="button">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="https://www.x.com" class="btn btn-outline-light btn-floating m-1 text-white" role="button">
+                                <i class="fab fa-x"></i>
+                            </a>
+                            <a href="https://www.instagram.com" class="btn btn-outline-light btn-floating m-1 text-white" role="button">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </footer>
+    </form>
+
+    <!-- JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

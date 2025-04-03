@@ -1,0 +1,826 @@
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CopyComplete
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\Downloads\TicketingBrosMP_wala pang nabago\TicketingBrosMP_wala pang nabago\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CopyComplete
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL7\TicketingBrosMP_FINAL1.1\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CopyComplete
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\Lorenzo\Downloads\TicketingBrosMP_FINAL13\TicketingBrosMP_FINAL_MP2\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINAL\TicketingBrosMP_FINAL\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMMOD3 - Copy\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\TicketingBrosMP.pdb
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+C:\Users\user\OneDrive - Malayan Colleges Laguna\Desktop\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\TicketingBrosMP.dll.config
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\TicketingBrosMP.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\TicketingBrosMP.pdb
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csc.exe
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csc.exe.config
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csc.rsp
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csi.exe
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csi.exe.config
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\csi.rsp
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.AppContext.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Collections.Immutable.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Console.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Globalization.Calendars.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.IO.Compression.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Net.Http.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Net.Sockets.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Reflection.Metadata.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.ValueTuple.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Xml.XPath.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\vbc.exe
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\vbc.exe.config
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\vbc.rsp
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\roslyn\VBCSCompiler.exe.config
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.AssemblyReference.cache
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\TicketingBrosMP.csproj.CoreCompileInputs.cache
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\Ticketin.1E48FAB5.Up2Date
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\TicketingBrosMP.dll
+D:\downloads\vortex\TicketingBrosMP_FINALMP_MOD3\TicketingBrosMP_FINALSMP_VILLAS_OKOL_TRAYVILLA_UMMALI\TicketingBrosMP\obj\Debug\TicketingBrosMP.pdb
